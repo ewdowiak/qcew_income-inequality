@@ -3,10 +3,12 @@
 This project uses data from the [Quarterly Census of Employment and Wages](https://www.bls.gov/cew/downloadable-data-files.htm)
 to compute estimates of the degree of income inequality for each county in the United States in the year 2019.
 It also attempts to identify the characteristics associated with different degrees of income inequality.
-As discussed below, one of those may be a positive correlation between average income and the coefficient of variation.
 
-However, all discussion of the social and economic effects of income inequality is left to future research.
-Our goal is to identify correlations, not to speculate about causations.
+As discussed below, the data suggests that counties with higher average income tend to have
+higher degrees of income inequality.  The data also suggests that counties with a greater
+dispersion of employment across supersectors tend to have higher degrees of income inequality.
+
+That is what the data suggests.  Our task here is to identify correlations, not to speculate about causations.
 But if we do, we must remember that many are possible.
 In one county, expansion of economic opportunity may increase income inequality,
 while in another county the high degree of income inequality may reflect limited economic opportunity.
